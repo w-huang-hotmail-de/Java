@@ -1,0 +1,1 @@
+Diese Konsole-Wetter-Anwendung wird unter Eclipse 2020 als Java Projekt (kein Maven Projekt) mittels Java SE 8 entwickelt.
